@@ -28,4 +28,4 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest pytest_test.py
+          pytest pytest_test.py  # Make sure this matches your actual test file name
